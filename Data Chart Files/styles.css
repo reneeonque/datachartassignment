@@ -1,0 +1,65 @@
+* {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#byline {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+#explanationofvid {
+	text-align: center;
+	padding-bottom: 10px;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+#firstpara {
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+#secondpara {
+	margin-left: 350px;
+	margin-right: 350px;
+	padding-bottom: 20px;
+}
+
+#graph {
+	padding-bottom: 20px;
+	font-size: 8px;
+}
+
+#thirdpara {
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+#fourthpara {
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+#fifthpara {
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+#sixthpara {
+	margin-left: 350px;
+	margin-right: 350px;
+	padding-bottom: 40px;
+}
+
+#sources {
+	text-align: center;
+	margin-left: 350px;
+	margin-right: 350px;
+}
